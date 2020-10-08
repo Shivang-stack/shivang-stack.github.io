@@ -180,7 +180,7 @@ section.Blogs a :hover{
 @media (max-width:1024px)
 {
 	header #Main-nav{
-		display: none;
+	
 	}
 }
 site-main-wrapper{
