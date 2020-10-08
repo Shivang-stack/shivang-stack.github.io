@@ -177,12 +177,6 @@ section.Blogs a :hover{
 	text-align: center;
 	text-decoration-color: #FFFFFF;
 }
-@media (max-width:1024px)
-{
-	header #Main-nav{
-	
-	}
-}
 site-main-wrapper{
 	position: relative;
 }
